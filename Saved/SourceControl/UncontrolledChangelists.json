@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Andrew/Documents/GitHub/the-game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Andrew/Documents/GitHub/the-game/Content/props/weapons/BP_Bullet.uasset",
+				"C:/Users/Andrew/Documents/GitHub/the-game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/A/B5/U1RB480BTRINXUU4TX2LFL.uasset",
+				"C:/Users/Andrew/Documents/GitHub/the-game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/8/U3/T2URTY1W3RGDIBQ260HXW1.uasset",
+				"C:/Users/Andrew/Documents/GitHub/the-game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/D/OH/9UX72DVHI8IYUOSLD9MNA2.uasset",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/UI/wb_mainmenu.uasset",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/menumap.umap",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/Door_Materiais_0.uasset",
