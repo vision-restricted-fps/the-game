@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/Andrew/Documents/GitHub/the-game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Andrew/Documents/GitHub/the-game/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/Andrew/Documents/GitHub/the-game/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
