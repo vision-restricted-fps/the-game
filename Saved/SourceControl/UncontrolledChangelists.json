@@ -6,7 +6,32 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/UI/wb_mainmenu.uasset",
-				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/menumap.umap"
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/menumap.umap",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/Door_Materiais_0.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/door.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/3/ZK/PNVOJH8EP1KINBA54QH7FC.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/D/PK/940Y5U0ES43SFN7BPJLCED.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/5/OQ/XJDX5AYTFHOVCNUWQIZSV1.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/2/JD/3WW9OA2JSZUMXME7MWZ7IM.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/E/J2/I1WEOYFE4A9IJZ6DEZCSO9.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/6/IK/WDMSAS1ZP2BEJDCQS6XPHT.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/7/RZ/70IFV9PBPQ7G3WZKSDBTH0.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/9/Q1/B99UZ7E7RDT7P7E39XNS6G.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/7/JB/HA0J97G2EA1TLB9YHY9RUM.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/C/AW/S7DV1UZDY5E3OGVTFLRFDS.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/2/DT/X0NFVE9V5VHF3ZWKGGL1JV.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/E/ME/IZ4G9TTFHC4JZACOUNKWUK.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/8/OH/G5AVDTRSJLJSJ5N99XTPY2.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/D/YQ/FD9O8KR65OMYM4M84070TS.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/0/OC/YTU96493UTOF2KRKO6EZJ3.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/B/OB/5MFP22XVBHT5QS99LLKFCX.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/D/TW/MW7FNCS4AV99Z7TCFOSJ64.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/E/YJ/HY5DO5239MUM7R90OTPW8M.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/D/J1/NELZM9IM49F4U3NWGXB4S1.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/8/62/BZW33K1NMO4R9F4MK783JQ.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/0/1B/UT5HBE1LJVWW8E3T78CPJ2.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/8/R4/6S3LR8GA69H04QBRDO8CWM.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/Door_001_Materiais_0.uasset"
 			]
 		}
 	]
