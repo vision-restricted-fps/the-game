@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/FirstPerson/Maps/Office_Map/office_level.umap",
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/Enemies/BP_EnemyMeleeV2.uasset",
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/Enemies/BP_EnemyV2.uasset",
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/4/TL/ODDGXC2J7IJ6XV1NVVVFKC.uasset",
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/FirstPerson/Maps/menumap.umap",
+				"C:/Users/safel/OneDrive/CS 415/Game Project/the-game/Content/UI/wb_mainmenu.uasset",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/UI/wb_mainmenu.uasset",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/menumap.umap",
 				"C:/Users/prart/Documents/Unreal Projects/MyProject/Content/FirstPerson/Maps/Door_Materiais_0.uasset",
